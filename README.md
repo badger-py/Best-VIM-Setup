@@ -58,8 +58,8 @@ autocmd BufWritePost *.py call flake8#Flake8()
 ```
 
 Also install extensions (follow tutorials):
-[ ] https://github.com/airblade/vim-gitgutter
-[ ] https://github.com/nvie/vim-flake8
+- https://github.com/airblade/vim-gitgutter
+- https://github.com/nvie/vim-flake8
 
 
 In the end of this repo, I want to say that VS Code greater then vim :)
